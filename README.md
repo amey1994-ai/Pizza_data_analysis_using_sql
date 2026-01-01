@@ -1,4 +1,4 @@
-# Pizza_data_analysis_using_sql
+🍕 Pizza Hut Sales & Revenue Analysis using SQL
 
 create database pizzahut;
 
